@@ -1,5 +1,7 @@
 
-Welcome! My name is e.mark and I'm from Hungary. I'm a self taught passionate c# programmer (I also make websites) and my mission is to make safe, stabile code. I have more than 3 years of coding experience.
+Welcome! My name is e.mark and I'm from Hungary. I'm a self taught passionate c# and C++ programmer (I also make websites) and my mission is to make safe, stabile code. I have more than 5 years of coding experience.
+
+I'm the lead programmer at Greybeard Game Studios and currently working on Project Fiefdom.
 
 
 
